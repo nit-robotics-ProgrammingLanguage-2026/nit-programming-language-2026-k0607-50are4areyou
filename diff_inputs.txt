@@ -1,2 +1,7 @@
-# main.c と ai.c の出力が食い違う入力を1行に1つ書く。
-# 食い違いがなければ「なし」とだけ書く。
+int count = 0;
+if (n == 0){
+    printf("0");
+    return 0;
+}
+count++;
+printf (%d %d\n" i, j);
