@@ -1,7 +1,1 @@
-int count = 0;
-if (n == 0){
-    printf("0");
-    return 0;
-}
-count++;
-printf (%d %d\n" i, j);
+あり
